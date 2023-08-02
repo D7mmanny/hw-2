@@ -6,8 +6,6 @@ body{
   border: 2px solid;
   display: flex;
   flex-direction: row-reverse;
-  
-
 }
 
 .nav-item{
@@ -32,12 +30,16 @@ body{
 
 }
 .heder{
-  
+  color: aliceblue;
   display: flex;
   flex-direction: column;
   height: 500px; ;
   justify-content: center;
   align-items: center;
+  background-image:url("Fk0mkYBXgAAyF1O.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
   
 
 }
