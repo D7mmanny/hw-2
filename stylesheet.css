@@ -1,0 +1,148 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+.nav{
+  border: 2px solid;
+  display: flex;
+  flex-direction: row-reverse;
+  
+
+}
+
+.nav-item{
+    height: 25%;
+}
+
+
+.nav-list{
+ 
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  width: 40%;
+}
+.list{
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+  
+
+}
+.heder{
+  
+  display: flex;
+  flex-direction: column;
+  height: 500px; ;
+  justify-content: center;
+  align-items: center;
+  
+
+}
+.url-heder{
+  display: flex;
+  flex-direction:row;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid;
+  padding: 25px 100px;
+  border-radius: 30px;
+  color: aliceblue;
+  background-color: #54bbbd;
+}
+.content-1{
+  
+  height: 500px; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f2f4f7;
+  
+
+}
+.c1-m{
+
+}
+.mor{
+  display: flex;
+  flex-direction:row;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid;
+  padding: 12px 50px;
+  border-radius: 30px;
+
+}
+.content-2{
+  
+  height: 500px; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+.content-3{
+
+  height: 500px; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #4e3797;
+
+}
+.content-4{
+ 
+  height: 500px; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+.content-5{
+ 
+  height: 500px; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f2f4f7;
+
+}
+.content-6{
+
+  height: 500px; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #5bbec2;
+
+}
+footer{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 200px;
+}
+.foot-2{
+  height: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: flex-end;
+  
+}
+.foot-3{
+  height: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: flex-end;
+}
